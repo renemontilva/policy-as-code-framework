@@ -1,0 +1,7 @@
+venv/
+.venv/
+**/.terraform/
+**/.terraform.lock.hcl
+volume/
+**/tfplan.json
+**/tfplan
