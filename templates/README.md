@@ -10,12 +10,12 @@ This directory is designed to:
 
 - Streamline the creation of new policies by offering pre-defined templates.
 - Ensure uniformity across policies to adhere to organizational standards.
-- Simplify the process of adapting policies for different environments and subdomains.
+- Simplify the process of adapting policies for different environments and applications.
 
 ### Key Features
 
 - **Reusable Templates**: Pre-built templates serve as a starting point for creating new policies, reducing duplication and saving time.
-- **Customizability**: Templates can be modified to suit specific use cases, environments, or subdomain requirements.
+- **Customizability**: Templates can be modified to suit specific use cases, environments, or applications requirements.
 - **Standardization**: Ensures that all policies align with the organization's best practices and compliance needs.
 
 ### Best Practices
